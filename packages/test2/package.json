@@ -1,0 +1,23 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "kyle-park-io <andy3638@naver.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@kyle-park-io:kyle-park-io/lerna.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/test2.test.js"
+  }
+}
